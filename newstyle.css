@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+	height: 100vh;
+	width: 100vw;
+	background-image:url(pro.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center margin-top;}
+
+#headtitle{
+	margin-bottom: 46px;
+	font-size: 42px;
+	font-family: gotham-bold;
+	text-transform: uppercase;
+	color: white;
+	position: relative;
+	bottom: 180px;
+	left: 650px;
+	z-index: 1;
+}
+
+#headcover{
+	background-color: rgba(0, 0, 0, .3);
+	height: 100vh;
+	width: 100vw;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;}
+
+
+.about{
+	height: 100vh;
+	width: 100vw;
+	text-align: left;
+	margin-bottom: 46px;
+	margin-top: 100px;
+	font-size: 26px;
+	font-family: gotham-bold;
+	color: #333332;
+	padding-right: 300px;
+	margin-left: 550px;
+	width: 550px;}
+
+.window{
+	padding-top: 50px;
+	text-align: center;
+	height: 100vh;
+	width: 100vw}
+	
+	
+.title{
+	margin-bottom: 46px;
+	font-size: 36px;
+	font-family: gotham-bold;
+	text-transform: uppercase;
+	color: #333332;
+	text-transform: bold;}
+
+.front-page-image{
+	display: inline-block;
+	margin: 0 10px;
+	width: 198px;
+	height: 260px;
+	margin-bottom: 2%;
+	border-radius: 5px;
+	background-size: cover;}
+
+.cover{
+	background-color: rgba(0, 0, 0, .35); 
+	display: inline-block;
+	margin: 0 10px;
+	width: 198px;
+	height: 260px;
+	margin-bottom: 2%;
+	border-radius: 5px;
+	background-size: cover;
+	position: relative;
+	left: -9px;}
+  
+.subhead{
+	font-family: gotham-bold;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: white;
+	text-align: center;
+	margin-top: 235px;}
+
+ #one{
+  	background: url(https://c1.staticflickr.com/7/6174/6144700853_5a7c3e665d_z.jpg) no-repeat center center;
+	background-size: cover;}
+ 
+ #two{
+  	background-image:url(http://2.bp.blogspot.com/-fDc1pF6x_Rc/UEthPQsDIpI/AAAAAAAABhk/fY8o3tl4kTw/s1600/DolceGabana-Light-Blue-Ad-Campaign-230810-2.jpg);}
+ #three{ 
+ 	 background-image:url(http://cdn.frontpagemag.com/wp-content/uploads/2013/07/New-York-City-Skyline.jpg); background-position: left center;}
+  
+ #four{
+	 background-image: url(eyebrow.jpg); background-position: center;}
+ 
+ #five{
+	 background-image: url(asiafest.jpg);}
+ 
+ #six{ 
+	 background-image: url(rangila.jpg); background-position: center center;}
+	 
+#seven{
+	background-image: url(https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10152626_226771287521826_4591937667363505616_n.png);
+	background-position: center center;}
+
+#eight{ 
+	background-image: url(https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10314003_601620506611526_1591054737217707698_n.jpg);}
+
+#nine{ 
+	background-image:url(http://farm3.static.flickr.com/2769/4392672686_6d62fc939a.jpg); background-position: center center;}
